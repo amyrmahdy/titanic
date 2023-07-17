@@ -41,6 +41,8 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 <br >
 
+---
+
 Author: **amyrmahdy**
 
 Date: **4 Dec 2022**
